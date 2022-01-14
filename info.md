@@ -43,3 +43,5 @@
 > git checout master
 
 вернутся к актуальному состоянию
+
+![error](AlbumArt_{B5020207-474E-4720-F17C-EA238BAB1500}_Large.jpg)
