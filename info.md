@@ -4,3 +4,8 @@
 > git init
 
 * создаёт локальный дипозиторий
+
+Если не было задано имя пользователя ранее, то:
+> git config --global user.name "name"
+
+> git congig --global user.email "email" 
