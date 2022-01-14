@@ -8,4 +8,14 @@
 Если не было задано имя пользователя ранее, то:
 > git config --global user.name "name"
 
-> git congig --global user.email "email" 
+> git config --global user.email "email" 
+
+## Добавление файлов в репозиторий
+
+> git add "file_name"
+
+добавляет файл в репозиторий
+
+> git commit -m "some massage"
+
+фиксирует все файлы которык были добавлены для отслеживания
