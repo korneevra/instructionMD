@@ -45,3 +45,15 @@
 вернутся к актуальному состоянию
 
 ![error](AlbumArt_{B5020207-474E-4720-F17C-EA238BAB1500}_Large.jpg)
+
+
+## Ветки в Git
+Чтобы посмотреть все ветки
+> git brahch
+
+Для созданя ветки
+> git branch branch_name
+
+Для переключения к ветке
+> git checkout branch_name
+
