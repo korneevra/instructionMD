@@ -57,3 +57,9 @@
 Для переключения к ветке
 > git checkout branch_name
 
+## Изменение последнего коментария
+
+> git commit --amend
+
+или
+> git commit --amend -m "Коментарий"
