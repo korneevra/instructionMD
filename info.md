@@ -66,10 +66,7 @@
 > git branch -D name
 
 
-kjhdfakhdfkadhfkdhfakshfakshdf
-acdasfasdc
-adad
-ca
-sdcas
-dcasd
-c   
+## Слияние веток и решение конфликтов
+
+Для слияния вток
+> git merge name
