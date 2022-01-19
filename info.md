@@ -57,3 +57,13 @@
 Для переключения к ветке
 > git checkout branch_name
 
+## Удаление веток
+Удаление веток происходит командой
+
+> git branch -d name
+
+Удаление ветки игнорируя все изменения
+> git branch -D name
+
+
+kjhdfakhdfkadhfkdhfakshfakshdf
