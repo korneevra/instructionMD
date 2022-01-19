@@ -65,5 +65,3 @@
 Удаление ветки игнорируя все изменения
 > git branch -D name
 
-
-kjhdfakhdfkadhfkdhfakshfakshdf
